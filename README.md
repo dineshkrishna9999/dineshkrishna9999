@@ -1,12 +1,12 @@
 <!-- Profile README for dineshkrishna9999 -->
+💻 Hello World! I'm Dinesh Krishna 💡
 
-<h1 align="center">Hi 👋, I'm Dinesh Krishna</h1>
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=4F86F7&center=true&vCenter=true&width=600&lines=Turning+Circuits+Into+Intelligence;Building+IoT+Solutions+That+Think;Automating+The+Physical+World;Solving+Problems+With+Technology" alt="Typing SVG" /> </a> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=0057B7&width=600&lines=Learning.+Building.+Exploring.+Solving." alt="Typing SVG" />
-</p>
 
----
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshkrishna9999&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkrishna9999&layout=compact&theme=radical&langs_count=8" /> </div>
+
+
 
 ### 🧭 Explorer | 🛠️ Builder | 🤔 Problem Solver
 
@@ -17,6 +17,7 @@
 - 💡 Motto: _“If there’s a problem, there’s a curiosity trigger!”_
 
 ---
+
 
 ### 🛤️ What’s My Journey Like?
 
