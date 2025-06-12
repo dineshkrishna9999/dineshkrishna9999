@@ -36,3 +36,7 @@
 - Participate in hackathons and innovation challenges
 - Explain things in the simplest way possible
 - Write code that teaches me something new
+
+
+📫 Let’s Connect
+🔗 www.linkedin.com/in/dinesh-krishna-ab62a6190
