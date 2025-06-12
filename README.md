@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Krishna</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=0057B7&width=435&lines=Learning.+Building.+Exploring.+Solving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=0057B7&width=600&lines=Learning.+Building.+Exploring.+Solving." alt="Typing SVG" />
 </p>
 
 ---
