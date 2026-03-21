@@ -1,43 +1,41 @@
-<!-- Profile README for dineshkrishna9999 -->
-💻 Hello World! I'm Dinesh Krishna 💡
+# Dinesh Karakambaka
 
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=4F86F7&center=true&vCenter=true&width=600&lines=Turning+Circuits+Into+Intelligence;Building+IoT+Solutions+That+Think;Automating+The+Physical+World;Solving+Problems+With+Technology" alt="Typing SVG" /> </a> </p>
+I work on making AI agents actually reliable and usable — so they can move beyond demos and start solving real-world system problems.
 
+I started out building embedded systems — access control hardware, Raspberry Pi setups, IoT devices that talked to the cloud. That taught me what it means for software to run in the real world, where things break and nobody is watching.
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshkrishna9999&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkrishna9999&layout=compact&theme=radical&langs_count=8" /> </div>
-
-
-
-### 🧭 Explorer | 🛠️ Builder | 🤔 Problem Solver
-
-- 🔭 Currently working on: **AI, IoT & Automation Projects**
-- 🌱 Always learning: **New Tech, Best Practices, and Life Hacks**
-- 🚀 Favorite hobby: **Turning ideas into reality**
-- 🧩 Passionate about breaking complex problems into simple solutions
-- 💡 Motto: _“If there’s a problem, there’s a curiosity trigger!”_
+Now I bring that same mindset to AI. I build with **Google ADK**, **LangChain**, **RAG pipelines**, and **agent frameworks** — but I'm less interested in making AI sound intelligent and more interested in making it **behave correctly**.
 
 ---
 
+### What I'm focused on
 
-### 🛤️ What’s My Journey Like?
+- **AI Agents** — building, evaluating, and debugging multi-agent systems that actually work in production
+- **Developer Tooling** — clean Python setups with uv, Ruff, DevContainers, and CI so I can move fast without breaking things
+- **RAG & Knowledge Systems** — GraphRAG, vector search, and retrieval pipelines that give agents real context
+- **Reliability** — if it can't handle edge cases, it's still a demo
 
-- 💬 Ask me about: **Python, Embedded Systems, Access Control, Raspberry Pi, AI**
-- 🤖 Built devices that talk, listen, and respond (sometimes better than humans!)
-- 🧠 Love working on smart systems — from readers and sensors to cloud and intelligence
-- 📝 Sharing what I build, so others can create more with less
+### Things I've built
+
+- Agent evaluation frameworks and crash courses for Google ADK
+- GraphRAG implementations (local-to-global retrieval)
+- Custom tool execution pipelines with Azure OpenAI
+- IoT access control systems and embedded hardware integrations
+- Python project templates with batteries-included DevContainer + CI setups
 
 ---
 
-### 👨‍💻 Things I Love to Do
+### Tech I work with
 
-```yaml
-- Learn new tech (even the weird and unpopular ones)
-- Tinker with hardware and low-level protocols
-- Build automation tools and connected systems
-- Participate in hackathons and innovation challenges
-- Explain things in the simplest way possible
-- Write code that teaches me something new
+```
+Python · Google ADK · LangChain · RAG · FastAPI
+uv · Ruff · pytest · Docker · DevContainers
+Raspberry Pi · Embedded Systems · IoT
+Azure · GCP · GitHub Actions
+```
 
+---
 
-📫 Let’s Connect
-🔗 www.linkedin.com/in/dinesh-krishna-ab62a6190
+<p align="center">
+  <a href="https://www.linkedin.com/in/dinesh-krishna-ab62a6190">LinkedIn</a> · <a href="mailto:kdineshkvkl@gmail.com">Email</a>
+</p>
