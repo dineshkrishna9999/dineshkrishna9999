@@ -37,5 +37,5 @@ Azure · GCP · GitHub Actions
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dinesh-krishna-ab62a6190">LinkedIn</a> · <a href="mailto:kdineshkvkl@gmail.com">Email</a>
+  <a href=https://www.linkedin.com/in/dinesh-karakambaka-ab62a6190?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> · <a href="mailto:kdineshkvkl@gmail.com">Email</a>
 </p>
