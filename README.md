@@ -271,6 +271,35 @@ class DineshKarakambaka:
   <img src="https://komarev.com/ghpvc/?username=dineshkrishna9999&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 </p>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GRATITUDE                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+                            ✦
+                        ·  ✦  ·
+                      ·    ✦    ·
+                        ·  ✦  ·
+                            ✦
+```
+
+*"I've been blessed with the best mentors at every stage of my life.*
+*Whatever I build, however far I go — it started because someone believed in me*
+*before I believed in myself. This profile, this work, this journey —*
+*none of it exists without them."*
+
+**— Dinesh**
+
+🙏
+
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FOOTER WAVE                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
