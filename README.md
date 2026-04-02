@@ -136,31 +136,49 @@ class DineshKarakambaka:
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🤖 AI Agent Frameworks</h3>
-      <p>Agent evaluation frameworks and crash courses for Google ADK. Multi-agent systems built for production, not demos.</p>
+      <h3><a href="https://github.com/dineshkrishna9999/firsttoknow">🔔 FirstToKnow</a></h3>
+      <p>AI agent that tracks YOUR stack and briefs you like a CTO. Stop being the last to know.</p>
     </td>
     <td align="center" width="50%">
-      <h3>🧠 GraphRAG Systems</h3>
-      <p>Local-to-global retrieval pipelines using GraphRAG, vector search, and knowledge graphs that give agents real context.</p>
+      <h3><a href="https://github.com/dineshkrishna9999/python-template">📦 Python Template</a></h3>
+      <p>Batteries-included project template — uv, Ruff, mypy, pytest, poe, DevContainer, CI/CD. Start fast, ship clean.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>⚙️ Tool Execution Pipelines</h3>
-      <p>Custom tool execution pipelines with Azure OpenAI — agents that can actually use tools reliably at scale.</p>
+      <h3><a href="https://github.com/dineshkrishna9999/adk-agent-evaluation">🧪 ADK Agent Evaluation</a></h3>
+      <p>Evaluation framework for Google ADK agents — because agents need tests, not just demos.</p>
     </td>
     <td align="center" width="50%">
-      <h3>🔌 IoT & Embedded Systems</h3>
-      <p>Access control hardware, Raspberry Pi setups, and IoT devices that talk to the cloud — where software meets the physical world.</p>
+      <h3><a href="https://github.com/dineshkrishna9999/adk-basic-agent-example">⚙️ ADK Tool Execution</a></h3>
+      <p>Bug reproduction & custom tool execution pipelines with Azure OpenAI integration for Google ADK.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <h3>📦 Developer Templates</h3>
-      <p>Batteries-included Python project templates with DevContainers + CI setups using uv, Ruff, pytest, and GitHub Actions.</p>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/dineshkrishna9999/agent-devcontainer-lab">🐳 Agent DevContainer Lab</a></h3>
+      <p>DevContainer setup for AI agent development — reproducible environments, zero "works on my machine".</p>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/dineshkrishna9999/HID">🔌 HID Access Control</a></h3>
+      <p>Hardware access control system — where software meets the physical world. Embedded systems roots.</p>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<h3 align="center">🤝 Open Source I've Contributed To</h3>
+
+<p align="center">
+  <a href="https://github.com/dineshkrishna9999/langchain-graphrag"><img src="https://img.shields.io/badge/LangChain_GraphRAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/dineshkrishna9999/agent-development-kit-crash-course"><img src="https://img.shields.io/badge/ADK_Crash_Course-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/dineshkrishna9999/adk-python"><img src="https://img.shields.io/badge/ADK_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/dineshkrishna9999/claw-code"><img src="https://img.shields.io/badge/Claw_Code-DEA584?style=for-the-badge&logo=rust&logoColor=black" /></a>
+</p>
 
 <br/>
 
@@ -265,10 +283,6 @@ class DineshKarakambaka:
   <a href="https://github.com/dineshkrishna9999">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dineshkrishna9999&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
