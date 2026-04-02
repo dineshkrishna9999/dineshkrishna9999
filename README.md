@@ -159,10 +159,6 @@ class DineshKarakambaka:
       <h3><a href="https://github.com/dineshkrishna9999/agent-devcontainer-lab">🐳 Agent DevContainer Lab</a></h3>
       <p>DevContainer setup for AI agent development — reproducible environments, zero "works on my machine".</p>
     </td>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/dineshkrishna9999/HID">🔌 HID Access Control</a></h3>
-      <p>Hardware access control system — where software meets the physical world. Embedded systems roots.</p>
-    </td>
   </tr>
 </table>
 
@@ -303,8 +299,8 @@ class DineshKarakambaka:
 
 *"I've been blessed with the best mentors at every stage of my life.*
 *Whatever I build, however far I go — it started because someone believed in me*
-*before I believed in myself. This profile, this work, this journey —*
-*none of it exists without them."*
+*before I believed in myself. So just share all you know...*
+*haha, let's make things better — give something in return to the world."*
 
 **— Dinesh**
 
